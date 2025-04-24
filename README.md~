@@ -42,6 +42,12 @@ To achieve this, a server programmed in Python is used that connects to a socket
 
 **THANKS TO ALL THE PERSONS THAT HAVE STARRED THE REPOSITORY!!!! LOVE YOU GUYS! ❤️**
 
+<p align="center">
+  <a href="https://github.com/pblcc/trj/stargazers">
+    <img width="500px" src="https://reporoster.com/stars/pblcc/trj">
+  </a>
+</p>
+
 ## Installing
 
 For using Trj, you will have to install two things, the client and the server. The client has been coded using C, as it can be compiled and the target of the attack will not notice that there is spyware running as a thread. The server is coded in Python. 
